@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/stemFair/static/css/main.dae01016.css",
+    "main.js": "/stemFair/static/js/main.6198e811.js",
+    "static/media/function.jpeg": "/stemFair/static/media/function.908d23c7577277ff5173.jpeg",
+    "static/media/loc.jpeg": "/stemFair/static/media/loc.e671ecd839661bd1727c.jpeg",
+    "static/media/variables.jpg": "/stemFair/static/media/variables.0c2537ad354fe2cb61bd.jpg",
+    "static/media/if.png": "/stemFair/static/media/if.f2447357b8ac0f9d735e.png",
+    "index.html": "/stemFair/index.html",
+    "main.dae01016.css.map": "/stemFair/static/css/main.dae01016.css.map",
+    "main.6198e811.js.map": "/stemFair/static/js/main.6198e811.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dae01016.css",
+    "static/js/main.6198e811.js"
+  ]
+}
