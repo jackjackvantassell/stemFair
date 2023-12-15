@@ -2,8 +2,9 @@
 import React from "react";
 import "../css/Side-Navbar.css";
 
-const SideNavbar = ({ concepts }) => {
+const SideNavbar = ({ concepts, onTabChange }) => {
   const handleClick = (id) => {
+    onTabChange(id);
     const element = document.getElementById(id);
     if (element) {
       const yOffset = -50; // Adjust this value to suit your layout
